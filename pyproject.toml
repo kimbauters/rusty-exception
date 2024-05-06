@@ -1,0 +1,21 @@
+[project]
+name = "rusty-exception"
+version = "1.0.0"
+dependencies = []
+requires-python = ">=3.10"
+authors = [
+    {name = "Kim Bauters"},
+]
+maintainers = []
+description = "Implementations of the `Option` and `Result` types in Python, inspired by Rust's `Option` and `Result` types."
+readme = "README.md"
+license = {text = "MIT License"}
+keywords = ["rusty", "option", "result", "safe", "wrapper"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python"
+]
+
+[project.urls]
+Repository = "https://github.com/kimbauters/rusty-exception.git"
